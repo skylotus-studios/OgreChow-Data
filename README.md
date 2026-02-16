@@ -22,6 +22,7 @@ This repo is intended to be:
 - **Readable** (configs + patch notes are human-friendly)
 
 This repo also aims for the following:
+
 ✅ The source of truth for the game remains **secure**.  
 ✅ This repo is the **published output** players download.
 
