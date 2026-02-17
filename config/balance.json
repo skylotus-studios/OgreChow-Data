@@ -1,0 +1,229 @@
+{
+  "gold": {
+    "baseMultiplier": 2,
+    "bonusMultiplier_Chop": 0.01,
+    "bonusMultiplier_Boil": 0.01,
+    "bonusMultiplier_Mash": 0.01,
+    "bonusMultiplier_Stir": 0.01
+  },
+  "heat": {
+    "baseHeat": 40,
+    "heatPerLevelIncrement": 10,
+    "heatMultiplierPerLevel": 0.002
+  },
+  "inferno": {
+    "baseInfernoLevel1Chance": 0.8,
+    "baseInfernoLevel2Chance": 1.2,
+    "chanceGrowthFactor": 0.15,
+    "lowestInfernoTierCap": 15,
+    "highestInfernoTierCap": 25,
+    "epicInfernoLevel": 1,
+    "ultimateInfernoLevel": 2,
+    "legendaryInfernoLevel": 3,
+    "mythicInfernoLevel": 4,
+    "perfectInfernoLevel": 5,
+    "rollChanceIncrementPerInfernoLevel": 0.5
+  },
+  "tools": {
+    "gradeChance": {
+      "common": 70,
+      "rare": 22,
+      "epic": 6,
+      "ultimate": 1.6,
+      "legendary": 0.35,
+      "mythic": 0.05,
+      "perfect": 0.01
+    },
+    "boilWindow": {
+      "common": 45,
+      "rare": 35,
+      "epic": 25,
+      "ultimate": 15,
+      "legendary": 10,
+      "mythic": 5,
+      "perfect": 3
+    },
+    "boilSpeed": {
+      "common": 1,
+      "rare": 1.2,
+      "epic": 1.5,
+      "ultimate": 1.9,
+      "legendary": 2.2,
+      "mythic": 2.5,
+      "perfect": 2.75
+    },
+    "mashTime": {
+      "common": 15,
+      "rare": 10,
+      "epic": 7,
+      "ultimate": 6,
+      "legendary": 5.5,
+      "mythic": 5,
+      "perfect": 4
+    },
+    "stirSensitivity": {
+      "common": 5,
+      "rare": 7,
+      "epic": 10,
+      "ultimate": 12,
+      "legendary": 15,
+      "mythic": 18,
+      "perfect": 20
+    },
+    "stirWindow": {
+      "common": 45,
+      "rare": 35,
+      "epic": 25,
+      "ultimate": 15,
+      "legendary": 10,
+      "mythic": 5,
+      "perfect": 3
+    },
+    "chopTime": {
+      "common": 2,
+      "rare": 1.9,
+      "epic": 1.8,
+      "ultimate": 1.7,
+      "legendary": 1.6,
+      "mythic": 1.55,
+      "perfect": 1.5
+    },
+    "chopPrecision": {
+      "common": 30,
+      "rare": 26,
+      "epic": 22,
+      "ultimate": 18,
+      "legendary": 14,
+      "mythic": 12,
+      "perfect": 14
+    }
+  },
+  "upgrades": {
+    "globalGoldMultiplierRateLvl1": {
+      "value": 0.2,
+      "cost": 6,
+      "upgradeCap": 1
+    },
+    "globalGoldMultiplierRateLvl2": {
+      "value": 0.2,
+      "cost": 15,
+      "upgradeCap": 1
+    },
+    "globalGoldMultiplierRate": {
+      "value": 0.2,
+      "cost": 50,
+      "upgradeCap": 23,
+      "costGrowthFactor": 1.8
+    },
+    "globalCeilingLvl1": {
+      "value": 1,
+      "cost": 6,
+      "upgradeCap": 1
+    },
+    "globalCeilingLvl2": {
+      "value": 1,
+      "cost": 15,
+      "upgradeCap": 1
+    },
+    "globalCeiling": {
+      "value": 1,
+      "cost": 50,
+      "upgradeCap": 23,
+      "costGrowthFactor": 1.75
+    },
+    "chopFloor": {
+      "value": 1,
+      "cost": 1000,
+      "upgradeCap": 20,
+      "costGrowthFactor": 1.4
+    },
+    "boilFloor": {
+      "value": 1,
+      "cost": 1000,
+      "upgradeCap": 20,
+      "costGrowthFactor": 1.4
+    },
+    "mashFloor": {
+      "value": 1,
+      "cost": 1000,
+      "upgradeCap": 20,
+      "costGrowthFactor": 1.4
+    },
+    "stirFloor": {
+      "value": 1,
+      "cost": 1000,
+      "upgradeCap": 20,
+      "costGrowthFactor": 1.4
+    },
+    "chopGoldMultiplier": {
+      "value": 0.005,
+      "cost": 5000,
+      "upgradeCap": 25,
+      "valueCurveFactor": 0.9,
+      "costGrowthFactor": 1.35
+    },
+    "boilGoldMultiplier": {
+      "value": 0.005,
+      "cost": 5000,
+      "upgradeCap": 25,
+      "valueCurveFactor": 0.9,
+      "costGrowthFactor": 1.35
+    },
+    "mashGoldMultiplier": {
+      "value": 0.005,
+      "cost": 5000,
+      "upgradeCap": 25,
+      "valueCurveFactor": 0.9,
+      "costGrowthFactor": 1.35
+    },
+    "stirGoldMultiplier": {
+      "value": 0.005,
+      "cost": 5000,
+      "upgradeCap": 25,
+      "valueCurveFactor": 0.9,
+      "costGrowthFactor": 1.35
+    },
+    "pullAutomationRate": {
+      "value": 0.1,
+      "cost": 5000,
+      "upgradeCap": 10,
+      "costGrowthFactor": 1.22
+    },
+    "chopAutomation": {
+      "value": 1,
+      "cost": 6000,
+      "upgradeCap": 25,
+      "costGrowthFactor": 1.24
+    },
+    "boilAutomation": {
+      "value": 1,
+      "cost": 6000,
+      "upgradeCap": 25,
+      "costGrowthFactor": 1.24
+    },
+    "mashAutomation": {
+      "value": 1,
+      "cost": 6000,
+      "upgradeCap": 25,
+      "costGrowthFactor": 1.24
+    },
+    "stirAutomation": {
+      "value": 1,
+      "cost": 6000,
+      "upgradeCap": 25,
+      "costGrowthFactor": 1.24
+    },
+    "onionToNuggetRatio": {
+      "value": 0.02,
+      "cost": 3000,
+      "upgradeCap": 25,
+      "costGrowthFactor": 1.2
+    },
+    "sealPoint": {
+      "value": 1,
+      "cost": 5000,
+      "upgradeCap": 30,
+      "costGrowthFactor": 1.3
+    }
+  }
+}
