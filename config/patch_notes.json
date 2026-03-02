@@ -1,7 +1,13 @@
 {
-  "latestVersion": "0.0.1",
-  "latestVersionCode": 1,
+  "latestVersion": "0.0.2",
+  "latestVersionCode": 2,
   "items": [
+    {
+      "version": "0.0.2",
+      "versionCode": 2,
+      "title": "Balance Update",
+      "notes": "↓ Tools Chop Precision: 30/26/22/18/14/12/14 → 30/26/22/18/14/12/10\n↑ Tools Chop Time: 2/1.9/1.8/1.7/1.6/1.55/1.5 → 20/19/18/17/16/15/10"
+    },
     {
       "version": "0.0.1",
       "versionCode": 1,

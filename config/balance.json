@@ -80,13 +80,13 @@
       "perfect": 3
     },
     "chopTime": {
-      "common": 2,
-      "rare": 1.9,
-      "epic": 1.8,
-      "ultimate": 1.7,
-      "legendary": 1.6,
-      "mythic": 1.55,
-      "perfect": 1.5
+      "common": 20,
+      "rare": 19,
+      "epic": 18,
+      "ultimate": 17,
+      "legendary": 16,
+      "mythic": 15,
+      "perfect": 10
     },
     "chopPrecision": {
       "common": 30,
@@ -95,7 +95,7 @@
       "ultimate": 18,
       "legendary": 14,
       "mythic": 12,
-      "perfect": 14
+      "perfect": 10
     }
   },
   "upgrades": {

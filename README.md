@@ -31,6 +31,13 @@ This repo also aims for the following:
 <!-- PATCH_NOTES_START -->
 ## Patch Notes
 
+### v0.0.2 — Balance Update
+
+```text
+↓ Tools Chop Precision: 30/26/22/18/14/12/14 → 30/26/22/18/14/12/10
+↑ Tools Chop Time: 2/1.9/1.8/1.7/1.6/1.55/1.5 → 20/19/18/17/16/15/10
+```
+
 ### v0.0.1 — Initial Balance Publish
 
 ```text
