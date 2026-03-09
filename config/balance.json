@@ -22,7 +22,9 @@
     "legendaryInfernoLevel": 3,
     "mythicInfernoLevel": 4,
     "perfectInfernoLevel": 5,
-    "rollChanceIncrementPerInfernoLevel": 0.5
+    "rollChanceIncrementPerInfernoLevel": 0.5,
+    "baseNuggetAmount": 10,
+    "nuggetRollChance": 5
   },
   "tools": {
     "gradeChance": {
@@ -222,10 +224,11 @@
       "upgradeCap": 25,
       "costGrowthFactor": 1.24
     },
-    "onionToNuggetRatio": {
-      "value": 0.02,
+    "nuggetAmount": {
+      "value": 50,
       "cost": 3000,
       "upgradeCap": 25,
+      "valueCurveFactor": 2,
       "costGrowthFactor": 1.2
     },
     "sealPoint": {

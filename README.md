@@ -31,6 +31,24 @@ This repo also aims for the following:
 <!-- PATCH_NOTES_START -->
 ## Patch Notes
 
+### v0.0.4 — Balance Update
+
+```text
+→ Inferno Base Nugget Amount: null → 10
+→ Inferno Nugget Roll Chance: null → 500%
+Nugget Amount:
+  → Value: null → 50
+  ↑ Decay: 1 → 2
+  → Base Cost: null → 3000
+  ↑ Cost Growth: 1 → 1.2
+  → Cap: null → 25
+Onion To Nugget Ratio:
+  → Value: 0.02 → null
+  → Base Cost: 3000 → null
+  ↓ Cost Growth: 1.2 → 1
+  → Cap: 25 → null
+```
+
 ### v0.0.3 — Balance Update
 
 ```text

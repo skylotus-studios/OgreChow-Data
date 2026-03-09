@@ -1,7 +1,13 @@
 {
-  "latestVersion": "0.0.3",
-  "latestVersionCode": 3,
+  "latestVersion": "0.0.4",
+  "latestVersionCode": 4,
   "items": [
+    {
+      "version": "0.0.4",
+      "versionCode": 4,
+      "title": "Balance Update",
+      "notes": "→ Inferno Base Nugget Amount: null → 10\n→ Inferno Nugget Roll Chance: null → 500%\nNugget Amount:\n  → Value: null → 50\n  ↑ Decay: 1 → 2\n  → Base Cost: null → 3000\n  ↑ Cost Growth: 1 → 1.2\n  → Cap: null → 25\nOnion To Nugget Ratio:\n  → Value: 0.02 → null\n  → Base Cost: 3000 → null\n  ↓ Cost Growth: 1.2 → 1\n  → Cap: 25 → null"
+    },
     {
       "version": "0.0.3",
       "versionCode": 3,
