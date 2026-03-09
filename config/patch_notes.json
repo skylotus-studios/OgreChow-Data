@@ -1,7 +1,13 @@
 {
-  "latestVersion": "0.0.2",
-  "latestVersionCode": 2,
+  "latestVersion": "0.0.3",
+  "latestVersionCode": 3,
   "items": [
+    {
+      "version": "0.0.3",
+      "versionCode": 3,
+      "title": "Balance Update",
+      "notes": "↓ Tools Chop Time: 20/19/18/17/16/15/10 → 10/9/8/7/6/5/3\n↓ Tools Mash Time: 15/10/7/6/5.5/5/4 → 7/6.5/6/5.5/5/4.5/3\n→ Tools Stir Time: -/-/-/-/-/-/- → 10/9/8/7/6/5/3\nBoil Floor:\n  ↓ Base Cost: 1000 → 750\nBoil Gold Multiplier:\n  ↓ Base Cost: 5000 → 3000\nChop Floor:\n  ↓ Base Cost: 1000 → 500\nChop Gold Multiplier:\n  ↓ Base Cost: 5000 → 2500\nGlobal Ceiling:\n  ↓ Base Cost: 50 → 30\nGlobal Ceiling Lvl1:\n  ↓ Base Cost: 6 → 2\nGlobal Ceiling Lvl2:\n  ↓ Base Cost: 15 → 9\nGlobal Gold Multiplier Rate:\n  ↓ Base Cost: 50 → 30\nGlobal Gold Multiplier Rate Lvl1:\n  ↓ Base Cost: 6 → 2\nGlobal Gold Multiplier Rate Lvl2:\n  ↓ Base Cost: 15 → 9\nStir Floor:\n  ↑ Base Cost: 1000 → 1250\nStir Gold Multiplier:\n  ↑ Base Cost: 5000 → 8000"
+    },
     {
       "version": "0.0.2",
       "versionCode": 2,

@@ -53,13 +53,13 @@
       "perfect": 2.75
     },
     "mashTime": {
-      "common": 15,
-      "rare": 10,
-      "epic": 7,
-      "ultimate": 6,
-      "legendary": 5.5,
-      "mythic": 5,
-      "perfect": 4
+      "common": 7,
+      "rare": 6.5,
+      "epic": 6,
+      "ultimate": 5.5,
+      "legendary": 5,
+      "mythic": 4.5,
+      "perfect": 3
     },
     "stirSensitivity": {
       "common": 5,
@@ -79,14 +79,23 @@
       "mythic": 5,
       "perfect": 3
     },
+    "stirTime": {
+      "common": 10,
+      "rare": 9,
+      "epic": 8,
+      "ultimate": 7,
+      "legendary": 6,
+      "mythic": 5,
+      "perfect": 3
+    },
     "chopTime": {
-      "common": 20,
-      "rare": 19,
-      "epic": 18,
-      "ultimate": 17,
-      "legendary": 16,
-      "mythic": 15,
-      "perfect": 10
+      "common": 10,
+      "rare": 9,
+      "epic": 8,
+      "ultimate": 7,
+      "legendary": 6,
+      "mythic": 5,
+      "perfect": 3
     },
     "chopPrecision": {
       "common": 30,
@@ -101,45 +110,45 @@
   "upgrades": {
     "globalGoldMultiplierRateLvl1": {
       "value": 0.2,
-      "cost": 6,
+      "cost": 2,
       "upgradeCap": 1
     },
     "globalGoldMultiplierRateLvl2": {
       "value": 0.2,
-      "cost": 15,
+      "cost": 9,
       "upgradeCap": 1
     },
     "globalGoldMultiplierRate": {
       "value": 0.2,
-      "cost": 50,
+      "cost": 30,
       "upgradeCap": 23,
       "costGrowthFactor": 1.8
     },
     "globalCeilingLvl1": {
       "value": 1,
-      "cost": 6,
+      "cost": 2,
       "upgradeCap": 1
     },
     "globalCeilingLvl2": {
       "value": 1,
-      "cost": 15,
+      "cost": 9,
       "upgradeCap": 1
     },
     "globalCeiling": {
       "value": 1,
-      "cost": 50,
+      "cost": 30,
       "upgradeCap": 23,
       "costGrowthFactor": 1.75
     },
     "chopFloor": {
       "value": 1,
-      "cost": 1000,
+      "cost": 500,
       "upgradeCap": 20,
       "costGrowthFactor": 1.4
     },
     "boilFloor": {
       "value": 1,
-      "cost": 1000,
+      "cost": 750,
       "upgradeCap": 20,
       "costGrowthFactor": 1.4
     },
@@ -151,20 +160,20 @@
     },
     "stirFloor": {
       "value": 1,
-      "cost": 1000,
+      "cost": 1250,
       "upgradeCap": 20,
       "costGrowthFactor": 1.4
     },
     "chopGoldMultiplier": {
       "value": 0.005,
-      "cost": 5000,
+      "cost": 2500,
       "upgradeCap": 25,
       "valueCurveFactor": 0.9,
       "costGrowthFactor": 1.35
     },
     "boilGoldMultiplier": {
       "value": 0.005,
-      "cost": 5000,
+      "cost": 3000,
       "upgradeCap": 25,
       "valueCurveFactor": 0.9,
       "costGrowthFactor": 1.35
@@ -178,7 +187,7 @@
     },
     "stirGoldMultiplier": {
       "value": 0.005,
-      "cost": 5000,
+      "cost": 8000,
       "upgradeCap": 25,
       "valueCurveFactor": 0.9,
       "costGrowthFactor": 1.35

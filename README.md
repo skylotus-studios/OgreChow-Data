@@ -31,6 +31,38 @@ This repo also aims for the following:
 <!-- PATCH_NOTES_START -->
 ## Patch Notes
 
+### v0.0.3 — Balance Update
+
+```text
+↓ Tools Chop Time: 20/19/18/17/16/15/10 → 10/9/8/7/6/5/3
+↓ Tools Mash Time: 15/10/7/6/5.5/5/4 → 7/6.5/6/5.5/5/4.5/3
+→ Tools Stir Time: -/-/-/-/-/-/- → 10/9/8/7/6/5/3
+Boil Floor:
+  ↓ Base Cost: 1000 → 750
+Boil Gold Multiplier:
+  ↓ Base Cost: 5000 → 3000
+Chop Floor:
+  ↓ Base Cost: 1000 → 500
+Chop Gold Multiplier:
+  ↓ Base Cost: 5000 → 2500
+Global Ceiling:
+  ↓ Base Cost: 50 → 30
+Global Ceiling Lvl1:
+  ↓ Base Cost: 6 → 2
+Global Ceiling Lvl2:
+  ↓ Base Cost: 15 → 9
+Global Gold Multiplier Rate:
+  ↓ Base Cost: 50 → 30
+Global Gold Multiplier Rate Lvl1:
+  ↓ Base Cost: 6 → 2
+Global Gold Multiplier Rate Lvl2:
+  ↓ Base Cost: 15 → 9
+Stir Floor:
+  ↑ Base Cost: 1000 → 1250
+Stir Gold Multiplier:
+  ↑ Base Cost: 5000 → 8000
+```
+
 ### v0.0.2 — Balance Update
 
 ```text
